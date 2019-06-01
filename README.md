@@ -12,6 +12,10 @@ While the documentation for the [Yoast SEO plugin](https://yoa.st/1ul) can be fo
 you can browse the source of the project, find and discuss open issues and even
 [contribute yourself](.github/CONTRIBUTING.md).
 
+# Managed WordPress Hosting Providers that Allow Yoast SEO Plugin:
+* [The-Online.com](https://the-online.com/)
+* [WP Engine](https://wpengine.com/)
+
 ## Installation
 
 Here's a [guide on how to install Yoast SEO in your WordPress site](https://yoa.st/1un).
